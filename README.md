@@ -17,7 +17,7 @@ If something goes wrong, you can simply destroy and re-create it.
 mkdir <app-dir>
 cd <app-dir>
 vagrant init 99xt/MEANStack
-vagrant up --provider virtualbox
+vagrant up
 ```
 
 See the Vagrant Docs [here](https://www.vagrantup.com/docs/)
