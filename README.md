@@ -6,6 +6,11 @@
 
 If something goes wrong, you can simply destroy and re-create it.
 
+## Requirements
+
+* Download and install [Vagrant](https://www.vagrantup.com)
+* Download and install [VirtualBox](https://www.virtualbox.org/)
+
 ## Usage
 
 ```
